@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.log
+**/mlruns/
+**/*env*/
+**/logs/
+**/regressionlogs/
+**/.env
